@@ -26,6 +26,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+[Bb]build.*
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -67,6 +68,8 @@ StyleCopReport.xml
 *.lo
 *.o
 *.obj
+*.pdb
+*.pcb
 
 # Precompiled Headers
 *.gch
