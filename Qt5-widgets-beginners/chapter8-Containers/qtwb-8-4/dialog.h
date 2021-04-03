@@ -2,8 +2,9 @@
 #define DIALOG_H
 
 #include <QDialog>
+#include <QPushButton>
+#include <QVBoxLayout>
 #include <QMessageBox>
-#include <QGroupBox>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Dialog; }
@@ -19,12 +20,14 @@ public:
 
 private slots:
     void on_buttonBox_accepted();
-
-    void on_buttonBox_rejected();
+    void hrClicked();
+    void legalClicked();
+    void nextClicked();
+    void backClicked();
 
 private:
     Ui::Dialog *ui;
 
-    QString getOptions(QGroupBox * group);
+    void init();
 };
 #endif // DIALOG_H
