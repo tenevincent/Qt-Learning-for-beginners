@@ -1,0 +1,11 @@
+Building message boxes with the static functions API, although convenient, is less flexible than using the property-based API, because the static function signatures lack parameters for setting the informative text and detailed text properties. One work-around for this has been to use the title parameter as the message box main text and the text parameter as the message box informative text. Because this has the obvious drawback of making a less readable message box, platform guidelines do not recommend it. The Microsoft Windows User Interface Guidelines recommend using the application name as the window's title, which means that if you have an informative text in addition to your main text, you must concatenate it to the text parameter.
+
+Note that the static function signatures have changed with respect to their button parameters, which are now used to set the standard buttons and the default button.
+
+Static functions are available for creating information(), question(), warning(), and critical() message boxes.
+
+Building message boxes with the static functions API, although convenient, is less flexible than using the property-based API, because the static function signatures lack parameters for setting the informative text and detailed text properties. One work-around for this has been to use the title parameter as the message box main text and the text parameter as the message box informative text. Because this has the obvious drawback of making a less readable message box, platform guidelines do not recommend it. The Microsoft Windows User Interface Guidelines recommend using the application name as the window's title, which means that if you have an informative text in addition to your main text, you must concatenate it to the text parameter.
+
+Note that the static function signatures have changed with respect to their button parameters, which are now used to set the standard buttons and the default button.
+
+Static functions are available for creating information(), question(), warning(), and critical() message boxes.
