@@ -1,0 +1,10 @@
+release/cat.o
+release/main.o
+release/car.o
+release/feline.o
+release/racecar.o
+release/dog.o
+release/moc_car.o
+release/moc_cat.o
+release/moc_feline.o
+release/moc_racecar.o

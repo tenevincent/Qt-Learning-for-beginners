@@ -1,0 +1,10 @@
+debug/animal.o
+debug/appliance.o
+debug/canine.o
+debug/feline.o
+debug/laptop.o
+debug/main.o
+debug/mammal.o
+debug/moc_animal.o
+debug/moc_appliance.o
+debug/moc_laptop.o

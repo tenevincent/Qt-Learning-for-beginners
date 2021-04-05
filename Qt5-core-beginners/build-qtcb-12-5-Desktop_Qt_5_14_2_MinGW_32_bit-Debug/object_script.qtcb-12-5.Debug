@@ -1,0 +1,10 @@
+debug/cat.o
+debug/main.o
+debug/car.o
+debug/feline.o
+debug/racecar.o
+debug/dog.o
+debug/moc_car.o
+debug/moc_cat.o
+debug/moc_feline.o
+debug/moc_racecar.o

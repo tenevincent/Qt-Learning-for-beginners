@@ -1,0 +1,10 @@
+release/animal.o
+release/appliance.o
+release/canine.o
+release/feline.o
+release/laptop.o
+release/main.o
+release/mammal.o
+release/moc_animal.o
+release/moc_appliance.o
+release/moc_laptop.o
