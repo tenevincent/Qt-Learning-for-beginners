@@ -1,13 +1,10 @@
-#include "mainwindow.h"
-
-#include <QApplication>
-#include "tier.h"
-
+#include "QtWidgetsApp.h"
+#include <QtWidgets/QApplication>
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    MainWindow w;
+    QtWidgetsApp w;
     w.show();
     return a.exec();
 }
