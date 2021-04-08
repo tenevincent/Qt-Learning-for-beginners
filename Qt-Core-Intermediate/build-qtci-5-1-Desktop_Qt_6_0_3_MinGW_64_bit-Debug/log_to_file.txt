@@ -1,0 +1,17 @@
+ Thu Apr 8 11:59:26 2021#Info: test! in %2#..\qtci-5-1\main.cpp#69
+Thu Apr 8 11:59:26 2021#Debug: Test(0x94fd30) Constructed#..\qtci-5-1\test.cpp#5
+Thu Apr 8 11:59:26 2021#Warning: This is a test!!!#..\qtci-5-1\test.cpp#10
+Thu Apr 8 11:59:26 2021#Info: Finished! in %2#..\qtci-5-1\main.cpp#77
+Thu Apr 8 11:59:28 2021#Info: test! in %2#..\qtci-5-1\main.cpp#69
+Thu Apr 8 11:59:28 2021#Debug: Test(0x94fd30) Constructed#..\qtci-5-1\test.cpp#5
+Thu Apr 8 11:59:28 2021#Warning: This is a test!!!#..\qtci-5-1\test.cpp#10
+Thu Apr 8 11:59:28 2021#Info: Finished! in %2#..\qtci-5-1\main.cpp#77
+Thu Apr 8 12:14:37 2021#Warning: unknow error#..\qtci-5-1\main.cpp#132
+Thu Apr 8 12:14:55 2021#Warning: unknow error#..\qtci-5-1\main.cpp#132
+Thu Apr 8 12:15:44 2021#Warning: #..\qtci-5-1\main.cpp#117
+Thu Apr 8 12:21:11 2021#Warning: Caught exception "  "
+#..\qtci-5-1\main.cpp#109
+Thu Apr 8 12:21:20 2021#Warning: Caught exception "  "
+#..\qtci-5-1\main.cpp#109
+Thu Apr 8 12:21:50 2021#Warning: Caught exception "  "
+#..\qtci-5-1\main.cpp#109
